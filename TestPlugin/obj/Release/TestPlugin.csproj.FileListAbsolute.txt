@@ -1,0 +1,15 @@
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\TestPlugin.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\TestPlugin.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\DataMANPluginInterFace.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\DataMANTypes.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\DataMANPluginInterFace.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\DataMANTypes.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\obj\Release\TestPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\obj\Release\DataMAN.PluginControl.resources
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\obj\Release\TestPlugin.csproj.GenerateResource.Cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\obj\Release\TestPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\obj\Release\TestPlugin.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\TestPlugin\obj\Release\TestPlugin.pdb

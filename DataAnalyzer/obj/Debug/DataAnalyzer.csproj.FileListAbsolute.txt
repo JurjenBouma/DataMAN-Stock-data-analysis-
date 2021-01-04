@@ -1,0 +1,13 @@
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\DataAnalyzer.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\DataAnalyzer.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\DataMANPluginInterFace.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\DataMANTypes.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\DataMANPluginInterFace.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\DataMANTypes.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\obj\Debug\DataAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\obj\Debug\DataAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\obj\Debug\DataAnalyzer.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataAnalyzer\obj\Debug\DataAnalyzer.pdb

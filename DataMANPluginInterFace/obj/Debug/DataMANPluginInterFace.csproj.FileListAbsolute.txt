@@ -1,0 +1,11 @@
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\bin\Debug\DataMANPluginInterFace.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\bin\Debug\DataMANPluginInterFace.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\bin\Debug\DataMANTypes.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\bin\Debug\DataMANTypes.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\obj\Debug\DataMANPluginInterFace.csprojResolveAssemblyReference.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\obj\Debug\DataMANPluginInterFace.csproj.CoreCompileInputs.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\obj\Debug\DataMANPluginInterFace.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANPluginInterFace\obj\Debug\DataMANPluginInterFace.pdb

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB58252A-BDB7-42EB-B4A7-7A71FD2C100F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataMAN</RootNamespace>
+    <AssemblyName>OptionChainUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OptionPanels\ChainPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionPanels\ChainPanel.Designer.cs">
+      <DependentUpon>ChainPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChartUI\ChartControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChartUI\ChartControl.Designer.cs">
+      <DependentUpon>ChartControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChartUI\ChartControlFunctions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionChainUI\OptionChainDateExpandable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionChainUI\OptionChainDateExpandable.Designer.cs">
+      <DependentUpon>OptionChainDateExpandable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionChainUI\OptionChainStrikeLine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionChainUI\OptionChainStrikeLine.Designer.cs">
+      <DependentUpon>OptionChainStrikeLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionChainUI\OptionChainUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionChainUI\OptionChainUI.Designer.cs">
+      <DependentUpon>OptionChainUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionPanels\ChartPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionPanels\ChartPanel.Designer.cs">
+      <DependentUpon>ChartPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionPanels\PositionsPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionPanels\PositionsPanel.Designer.cs">
+      <DependentUpon>PositionsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderUI\OrderBuyUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderUI\OrderBuyUI.Designer.cs">
+      <DependentUpon>OrderBuyUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderUI\OrderLineUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderUI\OrderLineUI.Designer.cs">
+      <DependentUpon>OrderLineUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderUI\OrderListUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderUI\OrderListUI.Designer.cs">
+      <DependentUpon>OrderListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderUI\OrderUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderUI\OrderUI.Designer.cs">
+      <DependentUpon>OrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PortofolioUI\PortofolioUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PortofolioUI\PortofolioUI.Designer.cs">
+      <DependentUpon>PortofolioUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PositionsUI\PositionLine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PositionsUI\PositionLine.Designer.cs">
+      <DependentUpon>PositionLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PositionsUI\PositionListUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PositionsUI\PositionListUI.Designer.cs">
+      <DependentUpon>PositionListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StockInfoUI\StockInfoUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StockInfoUI\StockInfoUI.Designer.cs">
+      <DependentUpon>StockInfoUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WatchListUI\WatchListUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WatchListUI\WatchListUI.Designer.cs">
+      <DependentUpon>WatchListUI.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ChartUI\ChartControl.resx">
+      <DependentUpon>ChartControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionChainUI\OptionChainDateExpandable.resx">
+      <DependentUpon>OptionChainDateExpandable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionChainUI\OptionChainStrikeLine.resx">
+      <DependentUpon>OptionChainStrikeLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionChainUI\OptionChainUI.resx">
+      <DependentUpon>OptionChainUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionPanels\ChainPanel.resx">
+      <DependentUpon>ChainPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionPanels\ChartPanel.resx">
+      <DependentUpon>ChartPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionPanels\PositionsPanel.resx">
+      <DependentUpon>PositionsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderUI\OrderBuyUI.resx">
+      <DependentUpon>OrderBuyUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderUI\OrderLineUI.resx">
+      <DependentUpon>OrderLineUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderUI\OrderListUI.resx">
+      <DependentUpon>OrderListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderUI\OrderUI.resx">
+      <DependentUpon>OrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PortofolioUI\PortofolioUI.resx">
+      <DependentUpon>PortofolioUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PositionsUI\PositionLine.resx">
+      <DependentUpon>PositionLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PositionsUI\PositionListUI.resx">
+      <DependentUpon>PositionListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockInfoUI\StockInfoUI.resx">
+      <DependentUpon>StockInfoUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WatchListUI\WatchListUI.resx">
+      <DependentUpon>WatchListUI.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataMANTypes\DataMANTypes.csproj">
+      <Project>{11f58180-7deb-4b92-a077-828a69d5eaa1}</Project>
+      <Name>DataMANTypes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

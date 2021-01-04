@@ -1,0 +1,9 @@
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\bin\Debug\DataMANTypes.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\bin\Debug\DataMANTypes.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\obj\Debug\DataMANTypes.csproj.CoreCompileInputs.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\obj\Debug\DataMANTypes.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\obj\Debug\DataMANTypes.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\DataMANTypes\obj\Debug\DataMANTypes.csprojResolveAssemblyReference.cache

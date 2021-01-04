@@ -1,0 +1,15 @@
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\PluginLowVolHighLoss.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\PluginLowVolHighLoss.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\DataMANPluginInterFace.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\DataMANTypes.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\DataMANPluginInterFace.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\DataMANTypes.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\obj\Debug\PluginLowVolHighLoss.csprojResolveAssemblyReference.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\obj\Debug\DataMAN.PluginControl.resources
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\obj\Debug\PluginLowVolHighLoss.csproj.GenerateResource.Cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\obj\Debug\PluginLowVolHighLoss.csproj.CoreCompileInputs.cache
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\obj\Debug\PluginLowVolHighLoss.dll
+C:\Users\Jurjen\Documents\Visual Studio 2017\Projects\DataMAN\PluginLowVolHighLoss\obj\Debug\PluginLowVolHighLoss.pdb
